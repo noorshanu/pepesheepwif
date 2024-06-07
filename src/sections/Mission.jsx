@@ -9,7 +9,7 @@ function Mission() {
         </div>
 
         <div className=" bg-[#61cf8e] border-2   py-8 px-4 rounded-2xl shadow-xl max-w-2xl ">
-          <h1 className=" font-kid font-bold text-3xl sm:text-5xl my-3">$SPEPE Products</h1>
+          <h1 className=" font-kid font-bold text-3xl sm:text-5xl my-3">SHEEP PEPE Products</h1>
 
           <p className=" text-lg sm:text-xl  "> 
            <strong>SPEPE Trading Bot: </strong> Your crypto trades snoozin'? Our bot's a wiz-kid sheep in wolf's clothing, making moves and munching numbers. It's smart, fast, and ready to blast your trading game into the stratosphere!
