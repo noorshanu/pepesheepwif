@@ -12,16 +12,16 @@ function Mission() {
           <h1 className=" font-kid font-bold text-3xl sm:text-5xl my-3">SHEEP PEPE Products</h1>
 
           <p className=" text-lg sm:text-xl  "> 
-           <strong>SPEPE Trading Bot: </strong> Your crypto trades snoozin'? Our bot's a wiz-kid sheep in wolf's clothing, making moves and munching numbers. It's smart, fast, and ready to blast your trading game into the stratosphere!
+           <strong>SHEEP PEPE Trading Bot: </strong> Your crypto trades snoozin'? Our bot's a wiz-kid sheep in wolf's clothing, making moves and munching numbers. It's smart, fast, and ready to blast your trading game into the stratosphere!
           </p>
 
           <p className=" text-lg sm:text-xl my-2 "> 
-           <strong>Lambo Memes: </strong>Memes so funny, you'll laugh all the way to the bank! SPEPE's Lambo Memes are your daily dose of LOLs, keeping the spirit high and the dream of riding a lambo, with a sheep, alive.</p>
+           <strong>Lambo Memes: </strong>Memes so funny, you'll laugh all the way to the bank! SHEEP PEPE's Lambo Memes are your daily dose of LOLs, keeping the spirit high and the dream of riding a lambo, with a sheep, alive.</p>
 
 
 
            <p className=" text-lg sm:text-xl my-2 "> 
-           <strong>SPEPE NFTs: </strong>Collectibles? Boring! Enter SPEPE NFTs: your golden fleece in the crypto cosmos. It's your all-access pass to the coolest flock in town, with benefits that'll make even the moon jealous.</p>
+           <strong>SHEEP PEPE NFTs: </strong>Collectibles? Boring! Enter SHEEP PEPE NFTs: your golden fleece in the crypto cosmos. It's your all-access pass to the coolest flock in town, with benefits that'll make even the moon jealous.</p>
 
         </div>
       </div>
