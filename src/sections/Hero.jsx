@@ -15,14 +15,14 @@ function Hero() {
 
             <div className=" flex justify-center gap-5 items-center mt-[2rem]">
               <a
-                href="https://twitter.com/_"
+                href="https://x.com/sheeppepeonsol_"
                 className=" text-2xl text-black bg-[#7cd259] hover:scale-125 hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
               >
                 <BsTwitterX />
               </a>
 
               <a
-                href="https://t.me/"
+                href="https://t.me/Sheeppepecoin"
                 target="_blank"
                 className=" text-2xl text-black hover:scale-125 bg-[#7cd259] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
               >
@@ -46,7 +46,7 @@ function Hero() {
               href="https://solscan.io/token/"
               className=" my-2 text-[#000000] bg-[#fff] rounded-full font-bold py-2 px-2 sm:px-16  sm:text-base text-[9px] font-short   flex justify-center w-[360px] sm:w-[500px] mx-6"
             >
-              7Gskgxewdxvoyzk5fghfghgjghjtydhtyfgh
+             soon......
             </a>
           </div>
         </div>

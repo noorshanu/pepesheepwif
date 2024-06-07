@@ -12,7 +12,7 @@ const Intro = () => {
 
         <div className="  px-4  py-6  text-center border-[#000000] relative z-10 rounded-2xl  ">
           <h1 className="text-4xl font-bold font-kid text-center my-3">
-            Hop on the SPEPE Express! To the Moon on Solana, with Laughs &
+            Hop on the SHEEP PEPE Express! To the Moon on Solana, with Laughs &
             Gains!
           </h1>
 
@@ -22,15 +22,15 @@ const Intro = () => {
             </div>
 
             <div>
-              <h1 className=" font-kid text-3xl my-2">About SPEPE</h1>
+              <h1 className=" font-kid text-3xl my-2">About SHEEP PEPE</h1>
 
               <p className=" text-start text-xl sm:text-2xl max-w-auto sm:max-w-screen-sm  mx-auto">
-                Hey there! We're SPEPE, where Pepe the frog meets  sheep
+                Hey there! We're SHEEP PEPE, where Pepe the frog meets  sheep
                 and dreams turn into memes. Riding high on Solana's speedy 
                 waves, we're here to mix up the crypto world with giggles, 
                 wiggles, and a sprinkle of moon dust. Think of us as your ticket 
                 to the meme dream team, zooming past the stars with wallets full 
-                and hearts light. SPEPE's not just a ride; it's a vibe. Come, 
+                and hearts light. SHEEP PEPE's not just a ride; it's a vibe. Come, 
                 let's baa and lol our way to the lambo land!
               </p>
             </div>
