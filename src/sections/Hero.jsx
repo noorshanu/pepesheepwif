@@ -30,7 +30,7 @@ function Hero() {
               </a>
 
               <a
-                href="https://www.dextools.io/"
+                href="https://www.dextools.io/app/en/solana/pair-explorer/6tbEarGxAw4vWnzg7A8rHex4dreevedLnidngQZMLxT8?t=1717765621178"
                 target="_blank"
                 className=" bg-[#7cd259] rounded-full text-xl font-semibold p-1 border-2 hover:scale-125 "
               >
@@ -46,7 +46,7 @@ function Hero() {
               href="https://solscan.io/token/"
               className=" my-2 text-[#000000] bg-[#fff] rounded-full font-bold py-2 px-2 sm:px-16  sm:text-base text-[9px] font-short   flex justify-center w-[360px] sm:w-[500px] mx-6"
             >
-             soon......
+             8E7DBtBnH39X9hpYmQdF9GFddXxCYhcoW5fE2cY2ejX7
             </a>
           </div>
         </div>
