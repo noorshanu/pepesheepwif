@@ -13,7 +13,7 @@ const Popup = ({ onClose }) => {
   return (
     <div className="fixed inset-0 flex items-center justify-center flex-col z-50  bg-white bg-hero">
 
-<img src="images/lambo.png" alt=""  className="h-[400px] Pot "/>
+<img src="images/lambo.png" alt=""  className="h-[400px] floating "/>
 
 
       <div className="rounded-lg p-8">
