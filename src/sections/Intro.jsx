@@ -36,7 +36,7 @@ const Intro = () => {
             </div>
           </div>
 
-          <div className=" flex flex-col sm:flex-row justify-center gap-8 mt-8 ">
+          <div className=" flex flex-col sm:flex-row justify-center gap-8 mt-8 sm:mt-16 ">
         <div className="bg-[#7bd259ae] rounded-3xl border-2 p-2">
           <img src="images/burn.jpeg" alt="" className="h-auto sm:h-[300px] rounded-2xl mx-auto" />
 

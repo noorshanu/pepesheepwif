@@ -3,7 +3,7 @@ import { FaTwitter, FaTelegram } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className=" w-full pb-8 relative z-10 bg-[#7bd259ae] mt-4 ">
+    <footer className=" w-full pb-8 relative z-10 bg-[#7bd259ae] mt-8 ">
       <img src="images/foot.png" alt=""  className=" mx-auto" />
       <div className="container-wrapper mt-8 ">
         <p className="   mx-auto mb-2 lg:mb-3 text-xl sm:text-2xl text-center  ">
