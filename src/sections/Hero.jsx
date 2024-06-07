@@ -14,14 +14,14 @@ function Hero() {
 
             <div className=" flex justify-center gap-5 items-center mt-[2rem]">
               <a
-                href="https://twitter.com/pepe_sheep_"
+                href="https://twitter.com/_"
                 className=" text-2xl text-black bg-[#7cd259] hover:scale-125 hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
               >
                 <BsTwitterX />
               </a>
 
               <a
-                href="https://t.me/pepesheep"
+                href="https://t.me/"
                 target="_blank"
                 className=" text-2xl text-black hover:scale-125 bg-[#7cd259] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
               >
@@ -29,7 +29,7 @@ function Hero() {
               </a>
 
               <a
-                href="https://www.dextools.io/app/en/solana/pair-explorer/5fj5L8VReY3Dacrur3zT2neEfZ7djUxxgDMxHYnhQ4Y3?t=1711617229071"
+                href="https://www.dextools.io/"
                 target="_blank"
                 className=" bg-[#7cd259] rounded-full text-xl font-semibold p-1 border-2 hover:scale-125 "
               >
@@ -42,10 +42,10 @@ function Hero() {
             </div>
 
             <a
-              href="https://solscan.io/token/7Gskgxewdxvoyzk5xhhpuFAoHFFrs9t1JdJE7AnwNL5a"
+              href="https://solscan.io/token/"
               className=" my-2 text-[#000000] bg-[#fff] rounded-full font-bold py-2 px-2 sm:px-16  sm:text-base text-[9px] font-short   flex justify-center w-[360px] sm:w-[500px] mx-6"
             >
-              7Gskgxewdxvoyzk5xhhpuFAoHFFrs9t1JdJE7AnwNL5a
+              7Gskgxewdxvoyzk5fghfghgjghjtydhtyfgh
             </a>
           </div>
         </div>
