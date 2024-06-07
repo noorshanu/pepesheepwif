@@ -85,6 +85,28 @@
     transform: translate(0, -0px);
   }
 }
+.Pot {
+
+
+overflow: hidden;
+  -webkit-animation: linear infinite;
+  -webkit-animation-name: run;
+  -webkit-animation-duration: 5s;
+}
+
+
+@keyframes run {
+  0% {
+    margin-left: 0;
+  }
+  50% {
+    margin-left: 100%;
+  }
+  100% {
+    margin-left: -10%;    
+  }
+}
+
 
 
 

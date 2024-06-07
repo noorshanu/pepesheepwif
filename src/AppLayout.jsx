@@ -12,7 +12,10 @@ import Mission from "./sections/Mission";
 const Popup = ({ onClose }) => {
   return (
     <div className="fixed inset-0 flex items-center justify-center flex-col z-50  bg-white bg-hero">
-      <img src="images/lambo.jpeg" alt=""  className="h-[400px]"/>
+
+<img src="images/lambo.png" alt=""  className="h-[400px] Pot "/>
+
+
       <div className="rounded-lg p-8">
         <button
           className="bg-[#7cd259] rounded-full px-6 py-2 text--2xl sm:text-5xl font-short  font-bold border-2 hover:scale-125"
