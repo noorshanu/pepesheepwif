@@ -3,10 +3,11 @@ import { FaLinkedinIn, FaTelegram } from "react-icons/fa6";
 
 function Hero() {
   return (
-    <section className=" pt-0  pb-[1rem]">
+    <section className=" pt-0  pb-[1rem] relative overflow-x">
+      <img src="images/lambo.png" alt="" className=" absolute left-0 right-0 Pot overflow-hidden h-[800px] " />
       <div className="container-wrapper flex justify-end flex-col items-center pt-[7rem] sm:pt-[6rem] ">
         <div></div>
-        <div className=" max-w-full sm:max-w-3xl ml-unset sm:ml-auto flex flex-col items-center  bg-[#7bd259ae] rounded-3xl border-2 ">
+        <div className=" max-w-full sm:max-w-3xl ml-unset sm:ml-auto flex flex-col items-center  bg-[#7bd259ae] rounded-3xl border-2 z-40 ">
           <img src="images/logo.png" alt="" className=" h-[250px]" />
 
           <div>

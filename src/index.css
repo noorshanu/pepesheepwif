@@ -53,7 +53,7 @@
 
 
 .bg-main{
- background-image: url(/images/herobg.jpeg);
+ background-image: url(/images/herobg.png);
  background-position: center;
  background-size: cover;
  background-repeat: no-repeat;
@@ -91,7 +91,7 @@
 overflow: hidden;
   -webkit-animation: linear infinite;
   -webkit-animation-name: run;
-  -webkit-animation-duration: 5s;
+  -webkit-animation-duration: 7s;
 }
 
 
@@ -103,7 +103,7 @@ overflow: hidden;
     margin-left: 100%;
   }
   100% {
-    margin-left: -10%;    
+    margin-left: 0;    
   }
 }
 
