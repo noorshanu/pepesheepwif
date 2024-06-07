@@ -24,13 +24,13 @@ const Intro = () => {
             <div>
               <h1 className=" font-kid text-3xl my-2">About SPEPE</h1>
 
-              <p className=" text-start text-xl sm:text-2xl">
-                Hey there! We're SPEPE, where Pepe the frog meets <br /> sheep
-                and dreams turn into memes. Riding high on Solana's speedy <br />
-                waves, we're here to mix up the crypto world with giggles, <br />
-                wiggles, and a sprinkle of moon dust. Think of us as your ticket <br />
-                to the meme dream team, zooming past the stars with wallets full <br />
-                and hearts light. SPEPE's not just a ride; it's a vibe. Come, <br />
+              <p className=" text-start text-xl sm:text-2xl max-w-auto sm:max-w-screen-sm  mx-auto">
+                Hey there! We're SPEPE, where Pepe the frog meets  sheep
+                and dreams turn into memes. Riding high on Solana's speedy 
+                waves, we're here to mix up the crypto world with giggles, 
+                wiggles, and a sprinkle of moon dust. Think of us as your ticket 
+                to the meme dream team, zooming past the stars with wallets full 
+                and hearts light. SPEPE's not just a ride; it's a vibe. Come, 
                 let's baa and lol our way to the lambo land!
               </p>
             </div>
